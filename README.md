@@ -3,6 +3,7 @@
 Collecting most frequently used cheatsheets here. 
 
 * [Python](./cheatsheets/Python.md), including conda, matplotlib
+* [Personal Website](./cheatsheets/Personal_site.md), code to manage personal website
 * [HTML Codes](https://brajeshwar.github.io/entities/), more [here](https://www.w3schools.com/charsets/ref_utf_greek.asp)
 * Tex 
    * [Symbols](http://harshakokel.com/pdf/LaTeX-symbols.pdf)
