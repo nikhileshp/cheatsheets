@@ -1,6 +1,5 @@
 # NumPy Cheat Sheet
 
-*Credit to* *[juliangaal](https://github.com/juliangaal)*
 
 [NumPy](http://www.numpy.org) is the fundamental package for scientific computing with Python.
 
@@ -452,5 +451,9 @@ print("NumPy arrays are", speedup, "times faster than Python lists for matrix mu
 </br>
 
 ## Credits <a name="creds"></a>
-[Datacamp](https://www.datacamp.com/home),
-[Quandl](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf) & [Official docs](https://docs.scipy.org/doc/numpy/)
+
+*Credit to* 
+[juliangaal](https://github.com/juliangaal) for the starter cheatsheet
+[Datacamp Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf) 
+[Quandl Cheatsheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf) &
+[Official docs](https://docs.scipy.org/doc/numpy/)
